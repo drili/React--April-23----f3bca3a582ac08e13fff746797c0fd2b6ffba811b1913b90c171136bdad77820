@@ -1,21 +1,12 @@
-# The most important React concepts to learn first (as a beginner)
+# Build a Fullstack Blog App using MERN (mongo, express, react, node)
 
 ### April 23
 
 ### Ressources / Links
 
-- https://youtu.be/m_477l0Er9w
+- https://youtu.be/xKs2IZZya7c
 
 ### Encryption SHA-256
 
-### Concepts
-- Functional Components
-- Props
-- Events
-    - onClick
-    - onBlur
-    - onChange
-- Hooks
-    - useState
-    - useEffect
-    - useRef
+### Progress
+...
